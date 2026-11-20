@@ -1,0 +1,28 @@
+{
+  "id": "./index.html",
+  "name": "دائرة المصالح العقارية بالباب",
+  "short_name": "المصالح العقارية",
+  "description": "دائرة المصالح العقارية بالباب - برمجة وتصميم معاوية المحمد الأحمد",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6fa",
+  "theme_color": "#142b49",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
